@@ -1,0 +1,19 @@
+.main_nav_col
+{
+	/* height: 143px;*/
+	height: 100px;
+}
+.header.scrolled .main_nav_col
+{
+	/* height: 100px; */
+	height: 50px;
+	margin: 5px 0px;
+}
+.owl-carousel .owl-item img {
+    height: 100px;
+    object-fit: cover;
+}
+a:not([href]):not([tabindex]) {
+    color: white;
+	cursor: pointer;
+}
